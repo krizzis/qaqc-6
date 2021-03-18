@@ -1,5 +1,1 @@
-# qaqc-6
-test
-# Feature
-# added in develop
-
+v.1.1. Added presentation file
